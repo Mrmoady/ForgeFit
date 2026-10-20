@@ -1,0 +1,6 @@
+{
+  "name": "ForgeFit - Full Body Workouts & Meal Plans",
+  "description": "Comprehensive full body workout routines, science-backed meal plans, macro calculator, and BMI body composition engine to achieve fitness goals efficiently.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
